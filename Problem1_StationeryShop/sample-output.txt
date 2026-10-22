@@ -1,0 +1,6 @@
+Receipt 201: Notebook x 2 = 90
+Receipt 202: Pen x 5 = 50
+Invalid item: Z 1
+Invalid item: M 0
+Receipt 203: File x 3 = 90
+Total receipts: 3, Total revenue: 230
