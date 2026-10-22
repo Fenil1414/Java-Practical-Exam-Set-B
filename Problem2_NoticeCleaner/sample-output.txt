@@ -1,0 +1,5 @@
+Sentence: Spring semester exam is near and exam is tough
+Words: 9
+Shortest word: is
+Keyword count: 2
+Vowels: 15
